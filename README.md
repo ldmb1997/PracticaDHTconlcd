@@ -47,3 +47,5 @@ void loop() {
 2. **LiquidCrystal I2C**
 
 ## Conexión
+
+![](https://github.com/DiegoJm10/PracticaDHTconlcd/blob/main/ESP32%20CON%20DHT22%20Y%20LCD%20-%20Wokwi%20ESP32,%20STM32,%20Arduino%20Simulator%20-%20Google%20Chrome%2009_06_2023%2008_14_14%20a.%20m..png?raw=true)
